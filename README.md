@@ -1,44 +1,90 @@
-# Web Accelerator
+<p align="center">
+  <img src="https://raw.githubusercontent.com/web-accelerator/web-accelerator/main/assets/web-accelerator-logo.png" alt="Web Accelerator Logo" width="180" />
+</p>
 
-A high-performance web acceleration and optimization project.
+<h1 align="center">Web Accelerator</h1>
 
-## Overview
+<p align="center">
+  AI-powered websites, automation and ultra-fast deployment infrastructure for modern businesses.
+</p>
 
-Web Accelerator is designed to improve website performance and user experience through advanced optimization techniques and acceleration strategies.
+<p align="center">
+  <a href="https://webaccelerator.ai">Website</a> ·
+  <a href="mailto:contact@webaccelerator.ai">Contact</a> ·
+  <a href="https://github.com/web-accelerator">GitHub</a>
+</p>
 
-## Features
+---
 
-- Performance optimization
-- Fast loading times
-- Web acceleration capabilities
+## 🚀 What we do
 
-## Getting Started
+**Web Accelerator** helps businesses launch fast, modern and scalable websites using AI-assisted development, automation and optimized deployment workflows.
 
-### Prerequisites
+We focus on building websites that are:
 
-- Node.js (v14 or higher)
-- npm or yarn
+- fast to launch
+- easy to scale
+- optimized for performance
+- AI-enhanced
+- ready for real business use
 
-### Installation
+---
 
-```bash
-npm install
-```
+## Core services
 
-### Usage
+### AI-generated websites
 
-```bash
-npm start
-```
+We create website structures, landing pages and content-ready layouts using AI-assisted workflows.
 
-## Contributing
+### Fast website deployment
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We build lightweight, production-ready websites that can be deployed quickly on platforms like Cloudflare Pages.
 
-## License
+### Automation
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+We connect websites with smart automations for lead capture, content generation, client workflows and online business operations.
 
-## Support
+### Hosting & infrastructure
 
-For support, please open an issue in the repository.
+We focus on performance, scalability, clean deployment pipelines and reliable technical foundations.
+
+---
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-279ED0?style=for-the-badge" />
+</p>
+
+---
+
+## Featured projects
+
+Coming soon:
+
+- AI website generator
+- Cloudflare Pages website templates
+- Local business website starter
+- Web automation workflows
+- WordPress/WooCommerce tools
+
+---
+
+## Why Web Accelerator?
+
+Most businesses do not need complicated websites that take months to launch.
+
+They need a fast, clean and professional online presence that can be launched quickly, improved continuously and connected with modern AI tools.
+
+That is what we build.
+
+---
+
+<p align="center">
+  Built for speed. Powered by AI. Made for businesses that move fast.
+</p>
