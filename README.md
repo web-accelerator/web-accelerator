@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/web-accelerator/web-accelerator/main/assets/web-accelerator-logo.png" alt="Web Accelerator Logo" width="180" />
+  <img src="https://github.com/web-accelerator/web-accelerator/blob/main/assets/web-accelerator-logo.png" alt="Web Accelerator Logo" width="180" />
 </p>
 
 <h1 align="center">Web Accelerator</h1>
